@@ -1,0 +1,5 @@
+python :- 3.10.9
+NumPy :-  1.23.5
+Pandas :- 1.5.3
+Seaborn :- 0.12.2
+Matplotlib:- 3.7.0
