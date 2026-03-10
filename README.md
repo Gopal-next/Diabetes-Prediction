@@ -65,5 +65,3 @@ python predict.py
 ## Results
 
 The model achieved an accuracy of **82%** on the test dataset. Further optimization can be performed using **Hyperparameter Tuning** (GridSearchCV) to improve the precision and recall scores.
-
-Would you like me to generate the Python code for this Random Forest implementation?
